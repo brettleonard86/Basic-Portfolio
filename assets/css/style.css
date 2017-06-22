@@ -107,6 +107,16 @@ footer {
   margin: 0 auto;
 }
 
+.AboutMe{
+  vertical-align: top;
+  width: 600px;
+  background: #ffffff;
+  display: inline-block;
+  margin-right: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .contactme{
   vertical-align: top;
   width: 600px;
